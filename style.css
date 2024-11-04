@@ -1,0 +1,17 @@
+h1{
+    background-color: #b743cb;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    padding: 10px;
+}
+
+a{
+    font-size: large;
+}
+
+.recipes-lst{
+text-align: center;
+}
