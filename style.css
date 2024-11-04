@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 h1{
     background-color: #b743cb;
     border-radius: 10px;
