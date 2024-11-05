@@ -1,9 +1,11 @@
 *{
     box-sizing: border-box;
+    background-color: #f5d3c7;
 }
 
 h1{
-    background-color: #b743cb;
+    background-color: #9a2dad;
+    border: 2px solid white;
     border-radius: 10px;
     color: white;
     text-align: center;
